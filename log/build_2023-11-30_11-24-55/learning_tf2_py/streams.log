@@ -1,0 +1,74 @@
+[0.687s] Invoking command in '/home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/src/prelims/TF2/learning_tf2_py': PYTHONPATH=/home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/prefix_override:/home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/learning_tf2_py build --build-base /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build install --record /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/install.log --single-version-externally-managed
+[0.890s] running egg_info
+[0.890s] creating ../../../../build/learning_tf2_py/learning_tf2_py.egg-info
+[0.902s] writing ../../../../build/learning_tf2_py/learning_tf2_py.egg-info/PKG-INFO
+[0.903s] writing dependency_links to ../../../../build/learning_tf2_py/learning_tf2_py.egg-info/dependency_links.txt
+[0.903s] writing entry points to ../../../../build/learning_tf2_py/learning_tf2_py.egg-info/entry_points.txt
+[0.903s] writing requirements to ../../../../build/learning_tf2_py/learning_tf2_py.egg-info/requires.txt
+[0.903s] writing top-level names to ../../../../build/learning_tf2_py/learning_tf2_py.egg-info/top_level.txt
+[0.904s] writing manifest file '../../../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[0.929s] reading manifest file '../../../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[0.929s] writing manifest file '../../../../build/learning_tf2_py/learning_tf2_py.egg-info/SOURCES.txt'
+[0.929s] running build
+[0.930s] running build_py
+[0.930s] creating /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build
+[0.930s] creating /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib
+[0.930s] creating /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.930s] copying learning_tf2_py/turtle_tf2_message_broadcaster.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.930s] copying learning_tf2_py/turtle_tf2_broadcaster.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.930s] copying learning_tf2_py/dynamic_frame_tf2_broadcaster.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.930s] copying learning_tf2_py/fixed_frame_tf2_broadcaster.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.930s] copying learning_tf2_py/static_turtle_tf2_broadcaster.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.930s] copying learning_tf2_py/__init__.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.930s] copying learning_tf2_py/turtle_tf2_listener.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py
+[0.930s] running install
+[0.930s] /home/adrien/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[0.931s] !!
+[0.931s] 
+[0.931s]         ********************************************************************************
+[0.931s]         Please avoid running ``setup.py`` directly.
+[0.931s]         Instead, use pypa/build, pypa/installer or other
+[0.931s]         standards-based tools.
+[0.931s] 
+[0.931s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[0.931s]         ********************************************************************************
+[0.931s] 
+[0.931s] !!
+[0.931s]   self.initialize_options()
+[0.935s] running install_lib
+[0.948s] creating /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.948s] copying /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py/turtle_tf2_message_broadcaster.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.948s] copying /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py/turtle_tf2_broadcaster.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.948s] copying /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py/dynamic_frame_tf2_broadcaster.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.949s] copying /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py/fixed_frame_tf2_broadcaster.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.949s] copying /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py/static_turtle_tf2_broadcaster.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.949s] copying /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py/__init__.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.949s] copying /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/build/lib/learning_tf2_py/turtle_tf2_listener.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py
+[0.949s] byte-compiling /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/turtle_tf2_message_broadcaster.py to turtle_tf2_message_broadcaster.cpython-310.pyc
+[0.949s] byte-compiling /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/turtle_tf2_broadcaster.py to turtle_tf2_broadcaster.cpython-310.pyc
+[0.950s] byte-compiling /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/dynamic_frame_tf2_broadcaster.py to dynamic_frame_tf2_broadcaster.cpython-310.pyc
+[0.950s] byte-compiling /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/fixed_frame_tf2_broadcaster.py to fixed_frame_tf2_broadcaster.cpython-310.pyc
+[0.950s] byte-compiling /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/static_turtle_tf2_broadcaster.py to static_turtle_tf2_broadcaster.cpython-310.pyc
+[0.951s] byte-compiling /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/__init__.py to __init__.cpython-310.pyc
+[0.951s] byte-compiling /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py/turtle_tf2_listener.py to turtle_tf2_listener.cpython-310.pyc
+[0.951s] running install_data
+[0.964s] creating /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/share/ament_index
+[0.965s] creating /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/share/ament_index/resource_index
+[0.965s] creating /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/share/ament_index/resource_index/packages
+[0.965s] copying resource/learning_tf2_py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/share/ament_index/resource_index/packages
+[0.965s] copying package.xml -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/share/learning_tf2_py
+[0.965s] creating /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/share/learning_tf2_py/launch
+[0.966s] copying launch/turtle_tf2_fixed_frame_demo.launch.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/share/learning_tf2_py/launch
+[0.966s] copying launch/turtle_tf2_demo.launch.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/share/learning_tf2_py/launch
+[0.966s] copying launch/turtle_tf2_sensor_message_launch.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/share/learning_tf2_py/launch
+[0.966s] copying launch/turtle_tf2_dynamic_frame_demo.launch.py -> /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/share/learning_tf2_py/launch
+[0.966s] running install_egg_info
+[0.978s] Copying ../../../../build/learning_tf2_py/learning_tf2_py.egg-info to /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/python3.10/site-packages/learning_tf2_py-0.0.0-py3.10.egg-info
+[0.979s] running install_scripts
+[1.097s] Installing dynamic_frame_tf2_broadcaster script to /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/learning_tf2_py
+[1.098s] Installing fixed_frame_tf2_broadcaster script to /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/learning_tf2_py
+[1.098s] Installing static_turtle_tf2_broadcaster script to /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/learning_tf2_py
+[1.098s] Installing turtle_tf2_broadcaster script to /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/learning_tf2_py
+[1.098s] Installing turtle_tf2_listener script to /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/learning_tf2_py
+[1.099s] Installing turtle_tf2_message_broadcaster script to /home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/install/learning_tf2_py/lib/learning_tf2_py
+[1.099s] writing list of installed files to '/home/adrien/CPE---Modelisation-et-Gestion-du-mouvement/build/learning_tf2_py/install.log'
